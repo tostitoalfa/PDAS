@@ -1,11 +1,11 @@
-
+import ProfileCard from "./ProfileCard"
 
 function App() {
  
 
   return (
     <>
-     <h1>Componente App</h1>
+     <ProfileCard />
     </>
   )
 }
